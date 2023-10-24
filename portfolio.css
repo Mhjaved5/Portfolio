@@ -1,0 +1,221 @@
+        *{
+            margin: 0;
+            padding: 0;
+        }
+body{
+    background-color:rgb(5, 5, 61);
+    color: white;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 80px;
+    background-color: black;
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+}
+nav li{
+    list-style: none;
+    margin: 0 23px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+nav ul li a:hover{
+    color:rgb(157, 157, 243);
+}
+.left{
+    font-size: 3rem;
+}
+.first{
+    display: flex;
+    justify-content: space-around;
+    margin: 23px 0;
+}
+.first> div{
+    width: 30%;
+}
+.leftSection{
+    color: white;
+    font-size: 50px;
+    margin: 5%;
+}
+.btn a:hover{
+   
+    color: rgb(12, 12, 12);
+}
+.btn a{
+    text-decoration: none;
+    
+}
+.btn{
+    padding: 12px;
+    font-size: 20px;
+    margin-top: 10%;
+}
+.cont a:hover{
+   
+    color: rgb(12, 12, 12);
+}
+.cont a{
+    text-decoration: none;
+    
+}
+.cont{
+    padding: 12px;
+    font-size: 20px;
+    margin-top: 10%;
+}
+.rightSection{
+    margin: 5%;
+}
+#purple{
+    color: greenyellow;
+}
+#element{
+    color: greenyellow;
+}
+.Project{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    font-size: 50px;
+}
+.ProjectList{
+    font-size: 20px;
+    margin-right: 10%;
+}
+.ProjectList a{
+    color: aliceblue;
+    text-decoration: none;
+    margin-left: 45%;
+    font-size: 30px;
+}
+.secondSection{
+    background-color: black;
+}
+.ThirdSection{
+    background-color: white;
+}
+.Skills{
+    display: flex;
+    margin-left: 40%;
+    font-size: 50px;
+    color: black;
+}
+.SkillList a{
+    margin-left: 40%;
+    color: black;
+    font-size: 30px;
+    text-decoration: none;
+}
+.SkillList{
+    font-size: 25px;
+}
+.TechnicalSkillsList a {
+    color:black;
+    font-size: 25px;
+    text-decoration: none;
+    list-style: none;
+}
+.TechnicalSkillsList1 {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    text-decoration: none;
+    height: 200px;
+    margin-left: 5%;
+}
+.logo{
+    margin-top: 30px;
+    width: 80px;
+    height: 80px;
+}
+
+.TechnicalSkills{
+    font-size: 50px;
+    margin-left: 40%;
+}
+.FourthSection{
+    background-color: darkkhaki;
+}
+.FifthSection{
+    background-color:brown;
+}
+.Certificate{
+    font-size: 50px;
+    margin-left: 40%;
+}
+.CertificateList a{
+    text-decoration: none;
+    margin-left: 50%;
+    color: white; 
+}
+.CertificateList{
+    font-size: 25px;
+}
+.Edu{
+    font-size: 50px;
+    margin-left: 40%;
+}
+.Education{
+    background-color: gray;
+}
+#EduList a{
+    margin-left: 50%;   
+    text-decoration: none;
+    color: white;
+}
+#aa{
+    font-size: 15px;
+    color:white
+}
+#EduList{
+    font-size: 25px;
+}
+.SignImage{
+    margin-left: 70%;
+}
+.Signature{
+    background-color: rgb(175, 248, 101);
+}
+.Sign{
+    font-size: 50px;
+    margin-left: 40%;
+    color: black;
+}
+.bottom{
+    background-color:black;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.bott{
+    font-size:25px;
+}
+.me{
+    color: red;
+    font-size: 20px;
+}
+#dd{
+    font-style:inherit;
+}
+.ee{
+    margin-top:2%;
+    margin-left: 40%;
+}
+#ff{
+    margin: auto;
+    margin-left: -7%;
+}
+#gg{
+    width: 350px;
+    height: 180px;
+    margin-left: 35%;
+}
